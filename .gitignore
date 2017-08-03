@@ -1,0 +1,14 @@
+
+AddedGeantPythia/
+
+out/
+
+*~
+
+bin/
+
+src/obj/
+
+*.png
+
+*.pdf

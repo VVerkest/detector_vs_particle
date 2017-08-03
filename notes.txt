@@ -1,0 +1,17 @@
+
+pythia6 with pt-dependent efficiencey vs. pythia6+Geant
+  pt(particle)<=====>pt(detector)
+
+
+
+  HISTOGRAMS:
+~ number of jets (difference)
+~ number of constituents per jet (difference)
+~ jet pt differences
+~ constituent pt differences
+
+
+" Yeah so on a jet by jet basis we can say "a jet with x pt was probably really a jet with y pt"
+  But we can't say "the missing pt was, with high probability, in 3 missing particles with pt a,b,c"
+  Which is what you'd need to do to correct geant to Pythia "
+  	   	      	   -- Nick
